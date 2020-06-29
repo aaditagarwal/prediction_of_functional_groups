@@ -1,0 +1,39 @@
+##TITLE=Trimethylphenylsilane
+##JCAMP-DX=4.24
+##DATA TYPE=UV/VIS SPECTRUM
+##ORIGIN=INSTITUTE OF ENERGY PROBLEMS OF CHEMICAL PHYSICS, RAS
+##OWNER=INEP CP RAS, NIST OSRD
+Collection (C) 2007 copyright by the U.S. Secretary of Commerce
+on behalf of the United States of America. All rights reserved.
+##CAS REGISTRY NO=768-32-1
+##MOLFORM=C9H14Si
+##BP=169.5
+##SOURCE REFERENCE=RAS UV No. 4133
+##$NIST SQUIB=1967NAG/REF393-404
+##$NIST SOURCE=TSGMTE
+##SPECTROMETER/DATA SYSTEM=Spectronom 201 UV
+##XUNITS=Wavelength (nm)
+##YUNITS=Logarithm epsilon
+##XFACTOR=1.000000
+##YFACTOR=1.000000
+##FIRSTX=210.0000
+##LASTX=214.0000
+##FIRSTY=4.04
+##MAXX=214
+##MINX=210
+##MAXY=4.05
+##MINY=3.93
+##NPOINTS=5
+##$REF AUTHOR=Nagy, J.; Reffy, J.; Kuszmann-Borbely, A.; Palossy-Becker, K.
+##$REF TITLE=Bond structure in the aryl derivatives of the elements of group IV/1
+##$REF JOURNAL=J. Organomet. Chem.
+##$REF VOLUME=7
+##$REF PAGE=393-404
+##$REF DATE=1967
+##XYPOINTS=(XY..XY)
+210.0000,4.040000
+211.0000,4.050000
+212.0000,3.980000
+213.0000,3.950000
+214.0000,3.930000
+##END=

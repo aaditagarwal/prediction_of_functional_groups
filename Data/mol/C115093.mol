@@ -1,0 +1,10 @@
+Mercury, chloromethyl-, ID: C115093
+  NIST    20061303342D 1   1.00000     0.00000      
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  3  2  0     0  0              1 V2000
+    0.0000    0.5052    0.0000 C   0  0  0  0  0  0           0  0  0
+    0.8419    0.0000    0.0000 Hg  0  0  0  0  0  2           0  0  0
+    1.7259    0.5052    0.0000 Cl  0  0  0  0  0  0           0  0  0
+  1  2  1  0     0  0
+  2  3  1  0     0  0
+M  END
