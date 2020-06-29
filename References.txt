@@ -1,0 +1,60 @@
+Resources to acquire data:
+    
+1] https://webbook.nist.gov/chemistry/silmarils-liquids-n-k/
+2] https://webbook.nist.gov/chemistry/silmarils-solids-hrf-drf
+3] https://webbook.nist.gov/chemistry/thz-ir/
+
+Images of IR Spectroscopy was downloaded from 4] and parsed to collect the data points in a csv file:
+
+4] https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/13%3A_Mass_Spectrometry%2C_Infrared_Spectroscopy%2C_and_Ultraviolet/13.01%3A_Mass_Spectrometry%2C_Infrared_Spectroscopy%2C_and_Ultraviolet/Visible_Spectroscopy/13.1.10%3A_The_Intensity_of_Absorption_Bands
+5] https://sites.google.com/site/trwaxs/home/solvent-absorption
+
+NOTE: 
+All the above resources were used to collect IR Spectroscopies of products to be used as training examples.
+
+6] http://publications.iupac.org/pac/pdf/1960/pdf/0104x0537.pdf
+7] https://files.mtstatic.com/site_4334/9606/0?Expires=1589546987&Signature=a27locw-lIWwwLWOd1HivYUf~oQa2o4yv43kdU5S3PNEZFxmLcXwiHJd5GszpyYC-XhGJu0k33lO3ZccoT4IWcxBq4EUNx0vC~32~pXbnnFqrvCrxhOur3nZxH3-hxofKAl9R-g3-XL2VvCv4VQzOBbonJIsv4F7L0kzNjb3g5M_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA
+
+There were additional images found which were converted to .xls files manually
+8]https://www.researchgate.net/figure/FT-IR-spectra-for-upgraded-pyrolysis-oil-over-temperature-range-of-71-120-0-C_tbl5_316279736
+
+The Reference to Web Scrapping script to acquire data from NIST
+9]https://gist.githubusercontent.com/mcs07/48fcfc0f072e5f45dcaa/raw/bcbe5204e3ba1acf0fef966f5aa3996d564eff45/nist.py
+
+Resources for approach to the project:
+
+The complete approach to the project :
+10] http://cs229.stanford.eduproj2017/final-reports/5244394.pdf
+
+For preprocessing techniques:
+11] https://www.shimadzu.com/an/ftir/support/tips/letter10/algorithms.html
+
+Basic understanding of the FTIR Technique:
+12] https://www.innovatechlabs.com/newsroom/672/stuff-works-ftir-analysis/ 
+
+Understanding how to interpret the IR spectroscopy:
+13] https://www.innovatechlabs.com/newsroom/1882/interpreting-analyzing-ftir-results/ 
+
+Possible Applications for FTIR analysis:
+14] https://www.innovatechlabs.com/casestudies/ 
+
+Creating Structure of molecule from sdf files:
+15] https://www.molinstincts.com/sdf-mol-file/ 
+
+Smarts expressions:
+16] https://www.daylight.com/dayhtml_tutorials/languages/smarts/smarts_examples.html#TOOL 
+
+RDKit reference:
+17] https://www.youtube.com/watch?v=ERvUf_lNopo 
+
+label.py reference:
+18] https://chemistry.stackexchange.com/questions/67631/list-of-functional-groups-in-a-molecule 
+
+An approach tried for labeling, but unable to run application and use for converting the mol files:
+19]http://merian.pch.univie.ac.at/~nhaider/cheminf/cmmm.html 
+
+Rdkit used in labeling:
+20] https://www.rdkit.org/docs/GettingStartedInPython.html
+
+Reference for data scrapping script :
+21] https://gist.github.com/mcs07/48fcfc0f072e5f45dcaa
